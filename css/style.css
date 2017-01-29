@@ -1,0 +1,8 @@
+.top-navigation {
+	float: right;
+	margin-right: 25px;
+	list-style: none;
+	display: inline-block;
+	padding: 5px 10px 0 0;
+}
+
